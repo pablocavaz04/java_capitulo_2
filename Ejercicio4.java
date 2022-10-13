@@ -9,6 +9,6 @@ public class Ejercicio4 {
         Scanner sc = new Scanner(System.in);
         System.out.println(" Introduzca una cantidad de euros: ");
         double euros = sc.nextDouble();
-        System.out.println("La cantidad introducida de "+euros+" €, equivale a la cantidad de "+(euros*166)+" pesetas.98");
+        System.out.println("La cantidad introducida de "+euros+" €, equivale a la cantidad de "+(euros*166)+" pesetas");
     }
 }
